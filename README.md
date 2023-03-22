@@ -1,4 +1,4 @@
-<div style="color:#483838; padding:0px 10px; border-radius:5px; font-size:18px; text-align:center"><h1 style='margin:10px 5px'>Fundamentals and mathematics of data science</h1>
+<div style="color:#483838; padding:0px 10px; border-radius:5px; font-size:18px; text-align:center"><h1 style='margin:10px 5px'>Numpy Library</h1>
 </div>
 
 ### Motivation
